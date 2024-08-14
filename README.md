@@ -6,8 +6,8 @@
 Blazor MVC is a C# Project that enables the ability to use the MVC framework with Blazor applications. Developers that have experience with this framework in the past can have familiar structure and quickly move into Blazor.  
 ## Features 
 
-- Compatibility with .NET 3, .NET 5, and .NET 6 
-- Compatibility with both Blazor Server applications and Blazor WebAssembly
+- Compatibility with .NET 3, .NET 5, .NET 6, and .NET 8
+- Compatibility with both Blazor Server applications and Blazor WebAssembly (as well as Blazor full-stack web applications in .NET 8)
 - Example projects on how to implement Blazor MVC 
 - Create Controllers and Models for each of your views by extending prebuilt classes 
 
